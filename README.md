@@ -1,4 +1,4 @@
-<h1><center>CS 7642 Spring 2021 Project 2: Solving the Lunar Lander Environment with DDQN</center></h1>
+<h1><center>Solving the Lunar Lander Environment with DDQN</center></h1>
 <h2><center>Evan Jones</center></h2>
 <h3><center>March 22, 2021</center></h3>
 
